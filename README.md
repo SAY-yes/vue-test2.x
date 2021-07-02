@@ -1,4 +1,12 @@
-# vue-test2.x
+## Create project
+
+* npm install -g @vue/cli @vue/cli-service-global
+* vue create vue-test2.x
+
+## Project install
+
+* vue add route
+* vue add vuex
 
 ## Project setup
 ```
